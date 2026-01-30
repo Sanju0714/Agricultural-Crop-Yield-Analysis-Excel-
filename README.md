@@ -1,21 +1,21 @@
 # 📊 Agricultural Crop Yield Analysis – Excel Dashboard
 
 ## 📌 Project Overview
-This project analyzes agricultural crop yield data across different Indian states and districts using **Microsoft Excel**.  
-The objective is to convert raw agricultural data into meaningful insights and present them through an **interactive Excel dashboard** to support data-driven decision-making.
+This project focuses on analyzing agricultural crop yield data across various Indian states and districts using **Microsoft Excel**.  
+The aim is to transform raw agricultural data into meaningful insights and present them through an **interactive Excel dashboard** that supports data-driven agricultural analysis and decision-making.
 
 ---
 
-## 🎯 Objectives
+## 🎯 Project Objectives
 - Analyze crop yield trends across states and districts  
 - Identify high-performing and low-performing crops  
-- Study the impact of rainfall, temperature, fertilizer, and irrigation  
-- Build an interactive Excel dashboard for agricultural insights  
+- Study the impact of rainfall, temperature, fertilizer usage, and irrigation  
+- Build an interactive Excel dashboard for easy exploration of insights  
 
 ---
 
 ## 🗂 Dataset Description
-The dataset contains agricultural and environmental information such as:
+The dataset contains agricultural and environmental information, including:
 - State and District  
 - Crop Name and Season  
 - Area Cultivated  
@@ -29,10 +29,10 @@ The dataset contains agricultural and environmental information such as:
 
 ## 🛠 Tools & Skills Used
 - Microsoft Excel  
-- Data Cleaning & Preprocessing  
+- Data Cleaning and Preprocessing  
 - Data Transformation  
-- Pivot Tables & Pivot Charts  
-- Slicers & Filters  
+- Pivot Tables and Pivot Charts  
+- Slicers and Filters  
 - Conditional Formatting  
 - Dashboard Design  
 
@@ -51,25 +51,25 @@ The dataset contains agricultural and environmental information such as:
 - Crop-wise productivity comparison  
 - Seasonal yield trends  
 - Rainfall and temperature impact analysis  
-- Interactive dashboard with slicers  
+- Interactive dashboard for dynamic analysis  
 
 ---
 
 ## 🎛 Slicers Used
 The dashboard includes slicers for interactive filtering:
-- **State** – Analyze crop performance by selected state  
+- **State** – Analyze performance by selected state  
 - **District** – Drill down into district-level insights  
-- **Crop** – Compare yields across different crops  
+- **Crop** – Compare productivity across crops  
 - **Season** – Analyze seasonal variations (Kharif, Rabi, Zaid)  
-- **Year** – View trends across different years  
-- **Irrigation Type** – Compare productivity across irrigation methods  
+- **Year-Month** – Track trends over time at a monthly level  
+- **Irrigation Type** – Compare productivity by irrigation method  
 
 ---
 
 ## 🔍 Key Insights
-- Crop productivity varies significantly across regions  
-- Rainfall and irrigation type strongly influence yield  
-- Some regions show high input usage but lower productivity  
+- Crop productivity varies significantly across different regions  
+- Rainfall and irrigation type have a strong influence on yield  
+- Some regions show higher input usage with relatively lower output, indicating efficiency gaps  
 
 ---
 
